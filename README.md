@@ -1,3 +1,4 @@
+![Aline's Animated Banner](https://github.com/Aline-CROIRE/Aline-CROIRE/blob/main/aline_banner.gif)
 # 👋 Hi, I’m Ephron Twagirimana  
 
 🚀 **Software & Web Developer | Data Enthusiast | IoT Innovator**  
