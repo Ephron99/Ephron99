@@ -1,4 +1,4 @@
-![Aline's Animated Banner](https://github.com/Ephron99/Ephron99/blob/main/profile.png)
+![Ephron's Banner](https://github.com/Ephron99/Ephron99/blob/main/profile.png)
 # 👋 Hi, I’m Ephron Twagirimana  
 
 🚀 **Software & Web Developer | Data Enthusiast | IoT Innovator**  
