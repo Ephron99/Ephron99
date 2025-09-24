@@ -34,5 +34,5 @@
 
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio Website](https://your-website.com)  
-- ✉️ ephron@example.com  
+- 🌐 [IG]( https://www.instagram.com/ephro99?igsh=YzljYTk1ODg3Zg== )  
+- ✉️ twagirimanaephron1@gmail.com  
